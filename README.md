@@ -1,7 +1,7 @@
 # INFO_STEALER
 
 
-# 🔐 Information Extraction Tool – Ethical Cybersecurity Utility
+## 🔐 Information Extraction Tool – Ethical Cybersecurity Utility
 
 A versatile cross-platform Python tool that demonstrates how sensitive data (browser credentials, Wi‑Fi passwords, clipboard contents, system metadata) can be accessed and processed. Includes features like encryption, compression, stealth mode, and optional exfiltration.
 
